@@ -5,7 +5,7 @@ This guide will walk you through deploying a Python / Flask application on [Deis
 ## Usage
 
 ```console
-$ git clone https://github.com/deis/example-python-flask.git
+$ git clone https://github.com/deisthree/example-python-flask.git
 $ cd example-python-flask
 $ deis create
 Creating Application... done, created queens-airfield
@@ -63,8 +63,8 @@ Powered by Deis
 
 ## Additional Resources
 
-* [GitHub Project](https://github.com/deis/workflow)
+* [GitHub Project](https://github.com/deisthree/workflow)
 * [Documentation](https://deis.com/docs/workflow/)
 * [Blog](https://deis.com/blog/)
 
-[Deis Workflow]: https://github.com/deis/workflow#readme
+[Deis Workflow]: https://github.com/deisthree/workflow#readme
